@@ -12,11 +12,15 @@ redirect_from:
 - **Field of Study**: Computer Science, NLP
 - **Graduating School**: Institute of Automation, Chinese Academy of Sciences
 - **Graduation Year**: 2015
+
+  
 ## **Professional Experience**
 - **Company**: Samsung Research China - Beijing
 - **Position**: Principal Engineer
 - **Responsibilities**: Tech lead of applying NLP/LLM/VLM on edge device
 - **Duration**: From 2015 until now
+
+  
 ## **Research Interests and Direction**
 - **Primary Research Area**: NLP, multimodal, emotional related
 - **Projects**:
