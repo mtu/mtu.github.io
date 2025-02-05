@@ -1,5 +1,3 @@
-
-
 ## **Education**
 - **Degree**: Ph.D
 - **Field of Study**: Computer Science, NLP
