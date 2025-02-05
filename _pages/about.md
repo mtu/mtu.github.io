@@ -1,7 +1,7 @@
 ## **Education**
 - **Degree**: Ph.D
 - **Field of Study**: Computer Science, NLP
-- **Graduating School**: Chinese Academy of Sciences
+- **Graduating School**: Institute of Automation, Chinese Academy of Sciences
 - **Graduation Year**: 2015
 ## **Professional Experience**
 - **Company**: Samsung Research China - Beijing
