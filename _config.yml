@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/mtu/mtu.github.io/blob/master/images/%E4%B8%AA%E4%BA%BA%E7%85%A7%E7%89%87-%E6%B6%82%E7%9C%89-2.JPG"
+  avatar           : "https://github.com/mtu/mtu.github.io/blob/master/images/%E6%B6%82%E7%9C%89-xiao.png"
   name             : "Tu Mei"
   pronouns         : "she/her"  
   bio              : "A senior research scientist in SRCB"
