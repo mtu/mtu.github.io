@@ -1,19 +1,36 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## **Education**
+- **Degree**: Ph.D
+- **Field of Study**: Computer Science, NLP
+- **Graduating School**: Chinese Academy of Sciences
+- **Graduation Year**: 2015
+## **Professional Experience**
+- **Company**: Samsung Research China - Beijing
+- **Position**: Principle Engineer
+- **Responsibilities**: Tech lead of applying NLP/LLM/VLM on edge device
+- **Duration**: From 2015 until now
+## **Research Interests and Direction**
+- **Primary Research Area**: NLP, multimodal, emotional related
+- **Projects**: Samsung Galaxy AI language pack MT modeling, on-device LLM/VLM based features modeling, depression detection via wearable devices
+- **Selected Publications**: 
+  + [A Lightweight Mixture-of-Experts Neural Machine Translation Model with Stage-wise Training Strategy](https://aclanthology.org/2024.findings-naacl.154/) (Zhang et al., NAACL Findings 2024)
+  + [A Cross Search Method for Data Augmentation in Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/10447171?casa_token=bOc9XZa1rowAAAAA:OfVzMPKBZ3FdDn9E3T6d_BWZuOSqhDc2kX1VERCTpR5Pj3VJq6xqeMimkuDJbg7CGEM5X5ccm0HQ)(Zhang et al., ICASSP 2024)
+  + [Pretrained Bidirectional Distillation for Machine Translation](https://aclanthology.org/2023.acl-long.63/) (Zhuang & Tu, ACL 2023)
+  + [CCIM: Cross-modal Cross-lingual Interactive Image Translation](https://aclanthology.org/2023.findings-emnlp.330/)(Ma et al., EMNLP findings 2023)
+  + [Angular Gap: Reducing the Uncertainty of Image Difficulty through Model Calibration](https://dl.acm.org/doi/abs/10.1145/3503161.3548289)(Peng et al., ACMMM 2022)
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
+Find my other publications:
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=2xomuKsAAAAJ&view_op=list_works&sortby=pubdate)
 
 Getting started
 ======
