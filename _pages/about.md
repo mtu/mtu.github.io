@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Homepage"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 ## **Education**
 - **Degree**: Ph.D
@@ -19,7 +12,10 @@ redirect_from:
 - **Duration**: From 2015 until now
 ## **Research Interests and Direction**
 - **Primary Research Area**: NLP, multimodal, emotional related
-- **Projects**: Samsung Galaxy AI language pack MT modeling, on-device LLM/VLM based features modeling, depression detection via wearable devices
+- **Projects**:
+  + Samsung Galaxy AI language pack MT modeling
+  + On-device LLM/VLM based features modeling
+  + Depression detection via wearable devices
 - **Selected Publications**: 
   + [A Lightweight Mixture-of-Experts Neural Machine Translation Model with Stage-wise Training Strategy](https://aclanthology.org/2024.findings-naacl.154/) (Zhang et al., NAACL Findings 2024)
   + [A Cross Search Method for Data Augmentation in Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/10447171?casa_token=bOc9XZa1rowAAAAA:OfVzMPKBZ3FdDn9E3T6d_BWZuOSqhDc2kX1VERCTpR5Pj3VJq6xqeMimkuDJbg7CGEM5X5ccm0HQ)(Zhang et al., ICASSP 2024)
