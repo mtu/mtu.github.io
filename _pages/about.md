@@ -17,7 +17,7 @@ redirect_from:
 ## **Professional Experience**
 - **Company**: Samsung Research China - Beijing
 - **Position**: Principal Engineer
-- **Responsibilities**: Tech lead of applying NLP/LLM/VLM on edge device
+- **Responsibilities**: Researcher of NLP/LLM/VLM on device
 - **Duration**: From 2015 until now
 
   
